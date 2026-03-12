@@ -4,7 +4,7 @@ My Application Security learning portfolio - documenting vulnerabilities found d
 
 **Author:** Rendy Jaya  
 **Focus:** Web Application Security & Penetration Testing  
-**Started:** January 2025  
+**Started:** March 2026  
 **Goal:** Transition from Software Developer to Application Security Engineer  
 
 ---
