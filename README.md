@@ -29,14 +29,14 @@ This repository documents my journey learning Application Security (AppSec). I'm
 - [ ] DVWA - All modules (Low security)
 - [ ] OWASP Top 10 study
 
-### Phase 2: Intermediate (Month 2) - Planned
+### Phase 2: Intermediate - Planned
 - [ ] PortSwigger - Access Control labs
 - [ ] PortSwigger - CSRF labs
 - [ ] WebGoat exercises
 - [ ] DVWA - Medium & High security levels
 - [ ] Burp Suite proficiency
 
-### Phase 3: Advanced (Month 3) - Planned
+### Phase 3: Advanced - Planned
 - [ ] OWASP Juice Shop challenges
 - [ ] Bug bounty platform practice
 - [ ] Portfolio polish & writeups
@@ -111,10 +111,10 @@ This repository documents my journey learning Application Security (AppSec). I'm
 
 ## 📫 Contact
 
-- **GitHub:** [Your GitHub username]
-- **LinkedIn:** [Your LinkedIn profile]
+- **GitHub:** https://github.com/rendyjaya
+- **LinkedIn:** https://www.linkedin.com/in/rendy-jaya-960571249/
 - **Location:** Wolfenbüttel, Germany
-- **Email:** [Your email]
+- **Email:** laurensius.rendyjaya@gmail.com
 
 ---
 
@@ -157,4 +157,4 @@ This portfolio is for educational purposes. All testing is performed on intentio
 
 ---
 
-*Last updated: January 2025*
+*Last updated: March 2026*
