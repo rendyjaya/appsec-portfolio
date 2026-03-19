@@ -51,7 +51,8 @@ This repository documents my journey learning Application Security (AppSec). I'm
 | Lab Name | Vulnerability Type | Difficulty | Status | Writeup |
 |----------|-------------------|------------|--------|---------|
 | SQL injection in WHERE clause | SQL Injection | Apprentice | ✅ Solved | [View](./PortSwigger/SQL-Injection-WHERE-Clause.md) |
-| SQL injection login bypass | SQL Injection | Apprentice | 🔄 In Progress | - |
+| SQL injection login bypass | SQL Injection | Apprentice | ✅ Solved | [View](./PortSwigger/SQL-Injection-Vulnerability-Allowing-Login-Bypass.md) |
+| SQL injection login bypass | SQL Injection | Apprentice | ✅ Solved | [View](./PortSwigger/SQL-Injection-Attack-Querying-Database-Version-on-Oracle.md) |
 | Reflected XSS | Cross-Site Scripting | Apprentice | ⏳ Planned | - |
 
 ### DVWA (Damn Vulnerable Web Application)
