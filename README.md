@@ -50,9 +50,11 @@ This repository documents my journey learning Application Security (AppSec). I'm
 
 | Lab Name | Vulnerability Type | Difficulty | Status | Writeup |
 |----------|-------------------|------------|--------|---------|
-| SQL injection in WHERE clause | SQL Injection | Apprentice | ✅ Solved | [View](./PortSwigger/SQL-Injection-WHERE-Clause.md) |
-| SQL injection login bypass | SQL Injection | Apprentice | ✅ Solved | [View](./PortSwigger/SQL-Injection-Vulnerability-Allowing-Login-Bypass.md) |
-| SQL injection login bypass | SQL Injection | Apprentice | ✅ Solved | [View](./PortSwigger/SQL-Injection-Attack-Querying-Database-Version-on-Oracle.md) |
+| SQL injection in WHERE clause allowing retrieval of hidden data | SQL Injection | Apprentice | ✅ Solved | [View](./PortSwigger/SQL-Injection-WHERE-Clause.md) |
+| SQL injection vulnerability allowing login bypass | SQL Injection | Apprentice | ✅ Solved | [View](./PortSwigger/SQL-Injection-Vulnerability-Allowing-Login-Bypass.md) |
+| SQL injection UNION attack, determining the number of columns | SQL Injection | Apprentice | ✅ Solved | [View](<./PortSwigger/SQL Injection UNION Attack, Determining the Number of Columns Returned by the Query.md>) |
+| SQL injection attack, querying database type/version on Oracle | SQL Injection | Apprentice | ✅ Solved | [View](./PortSwigger/SQL-Injection-Attack-Querying-Database-Version-on-Oracle.md) |
+| SQL injection attack, querying database type/version on MySQL and Microsoft | SQL Injection | Apprentice | ✅ Solved | [View](<./PortSwigger/SQL Injection Attack, Querying the Database Type and Version on MySQL and Microsoft.md>) |
 | Reflected XSS | Cross-Site Scripting | Apprentice | ⏳ Planned | - |
 
 ### DVWA (Damn Vulnerable Web Application)
@@ -89,12 +91,12 @@ This repository documents my journey learning Application Security (AppSec). I'm
 
 ## 📈 Progress Metrics
 
-- **Total Labs Completed:** 1
-- **Vulnerabilities Documented:** 1
-- **Study Time:** ~10 hours
-- **Current Focus:** SQL Injection mastery
+- **Total Labs Completed:** 5
+- **Vulnerabilities Documented:** 5
+- **Study Time:** ~15 hours
+- **Current Focus:** SQL Injection mastery (UNION attacks)
 
-**Last Updated:** January 10, 2025
+**Last Updated:** November 1, 2026
 
 ---
 
